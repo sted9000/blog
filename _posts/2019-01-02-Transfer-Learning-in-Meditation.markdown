@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transfer sitting"
+title: "Transfer Learning in Meditation"
 date: 2019-01-02
 tags: [communication, meditation]
 
