@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019-01-02-Transfer-sitting
+title: "Transfer sitting"
 tags: [communication, meditation]
 
 ---
