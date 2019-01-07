@@ -15,10 +15,10 @@ Curiosity and a friendly freeroll seem like a better motivator.
 
 The goal is to string together the rest of January.
 
-Here is the [link]() for the freeroll on freeroll.io.
+Here is the [link](https://freerollio.github.io/#0x6d73f296bbfd34589925acddf0d0e9fcebb0723a327f68d63d5d0c0e43fa0d9f) for the freeroll on freeroll.io.
 
-[Here] is my current streak as of 07/01/19.
+[Here](https://drive.google.com/file/d/1-NB--uXIAu98iBTQUxaljHtol57G57hT/view?usp=sharing) is my current streak as of 07/01/19.
 
 [Here] is where I will post my streak after 31/01/19.
 
-Good luck us. 
+Good luck us.
