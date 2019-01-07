@@ -9,7 +9,7 @@ One resolution this year is to continue to explore meditation.
 The number one way I want to explore is to sit down on a more regular basis.
 
 Setting a simple goal of sitting everyday seems right.
-In the past I have pushed towards loftier goals and ended up dreading siting.
+In the past I have pushed towards loftier goals and ended up dreading sitting.
 This seems like one area where pushing and efforting seems sub optimal.
 Curiosity and a friendly freeroll seem like a better motivator.
 
