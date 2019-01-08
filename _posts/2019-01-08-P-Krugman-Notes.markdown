@@ -5,7 +5,8 @@ title: "P Krugman - Notes"
 tags: [krugman, people, ideas]
 ---
 
-##Paul Krugman
+## Paul Krugman
+
 Occupation: Economist
 
 I was introduced through [this](https://medium.com/conversations-with-tyler/tyler-cowen-paul-krugman-economics-bipartisanship-politics-254dcee15b98) podcast.
