@@ -8,7 +8,7 @@ tags: [books, meditation, notes]
 
 One sentence review: A fast and inspiring introduction to a secular spiritual life told through a personal narrative with many messages to take away.
 
-My thoughts: I really enjoyed it (thanks Aunt Kim). It was the perfect book to read while taking care of your old stubborn, angry, dying grandfather. The author uses minimal woo-woo to when telling his journey which I appreciated. And if I ever have half as much to write about and can do it half as well as he did I will be thrilled.
+My thoughts: I really enjoyed it (thanks Aunt Kim). It was the perfect book to read while taking care of your old stubborn, angry, dying grandfather. The author uses minimal woo-woo when telling his journey, which I appreciated. If I ever have half as much to write about and can do it half as well as he did I will be thrilled.
 
 Quotes and Ideas:
 
@@ -18,7 +18,7 @@ Quotes and Ideas:
 
 - "They [mindfulness techniques] can increase focus and help us make decisions more quickly, but without wisdom and insight (opening the heart) the techniques can result in self-absorption, narcissism, and isolation. Our journey isn't meant to be an inward journey alone, but an outward journey of connection as well."
 
-- "...what was it about Ruth's teachings that seemed so compelling and [I] realized that at their core they were about opening the heart. Acting kindly and compassionately with intent."
+- "...what was it about Ruth's teachings that seemed so compelling and I realized that at their core they were about opening the heart. Acting kindly and compassionately with intent."
 
 - "What you think you want is not always what's best."
 
