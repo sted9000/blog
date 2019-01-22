@@ -25,4 +25,4 @@ If you are the first one out of the building in the morning the equation would o
 
 ME: "Grandpa you know you shouldn't leave the elevator on the first floor if you are trying to be nice. Usually you should leave it on the 3rd".
 
-GRANDPA: "I don't know many people carry their groceries back to the supermarket."
+GRANDPA: "I don't know many people who carry their groceries back to the supermarket."
