@@ -12,7 +12,7 @@ Let's see:
 
 - The lobby is floor 1
 
-I think the 'nicest' floor to send the elevator to is the one where the 'average person' gets on/off.
+The 'nicest' floor to send the elevator to is the one where the average wait is the smallest.
 
 During a trip out of the building everyone leaves their 'average floor' (8 + 7 + 6 + 5 + 4 + 3 + 2) / 7.
 And everyone returns from the first floor (1).
@@ -22,6 +22,7 @@ I guess the time matters too though.
 If you are the first one out of the building in the morning the equation would obviously change. This highlights the fact that knowing who is in or out of the building matters. Doing the 'nice' thing would then simple be (8 + 7 + 6 + 5 + 4 + 3 + 2) / 7 => 5. As everyone is still in the building. And conversely if you think you are the last one out of the building the 'nicest' thing to do would be to simply leave the elevator in the lobby.
 
 ---
+
 
 ME: "Grandpa you know you shouldn't leave the elevator on the first floor if you are trying to be nice. Usually you should leave it on the 3rd".
 
