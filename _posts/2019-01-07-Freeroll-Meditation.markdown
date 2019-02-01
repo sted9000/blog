@@ -19,6 +19,6 @@ Here is the [link](https://freerollio.github.io/#0x6d73f296bbfd34589925acddf0d0e
 
 [Here](https://drive.google.com/file/d/1-NB--uXIAu98iBTQUxaljHtol57G57hT/view?usp=sharing) is my current streak as of 07/01/19.
 
-[Here] is where I will post my streak after 31/01/19.
+[Here](https://drive.google.com/file/d/1oYOaF_cQr5EAN_cMPUP2M5gR4lfLNT-4/view?usp=sharing) is where I will post my streak after 31/01/19.
 
 Good luck us.
