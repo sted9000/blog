@@ -17,4 +17,4 @@ I will post before and after videos as receipts.
 
 Gl us.
 
-Update (2019-03-15) - Complete 20 Sets of each of the following: 25 push-ups, 33 push-ups, 3 pull-ups, 4 pull-ups.
+Update (2019-03-15) - Completed 20 Sets of each of the following: 25 push-ups, 33 push-ups, 3 pull-ups, 4 pull-ups.
