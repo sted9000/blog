@@ -15,4 +15,6 @@ Freeroll:
 All based on the honor system
 I will post before and after videos as receipts.
 
-Gl us. 
+Gl us.
+
+Update (2019-03-15) - Complete 20 Sets of each of the following: 25 push-ups, 33 push-ups, 3 pull-ups, 4 pull-ups.
