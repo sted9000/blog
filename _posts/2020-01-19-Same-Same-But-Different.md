@@ -10,4 +10,4 @@ I love anything that illuminates that we have the same questions as those living
 
 What matters and why are questions that personally change over your life, but don't change over hundred of years.
 And it is not obvious that we really want answers to those questions,
-or if we had them, what would change? 
+or if we had them, what would change?
