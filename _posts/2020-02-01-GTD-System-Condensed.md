@@ -7,7 +7,7 @@ title: "My Personal Management System – Part 2 - The System (condensed)"
 In one longish sentence here it is:
 > "We (1) capture what has our attention, (2) clarify what each item means and what to do about it, (3) organize the result, which present the options we (4) reflect on, which we then choose to (5) engage with." - GTD
 
-1 - Write down what is on your mind as it comes up. Whatever it is. Make sure it is in a place you trust you come back too.
+1 - Write down what is on your mind as it comes up. Whatever it is. Make sure it is in a place you trust you will come back too.
 
 2 - Routinely clarify all the items. Ask what do the things you have written down mean?
 
