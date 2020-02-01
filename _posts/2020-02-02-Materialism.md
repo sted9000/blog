@@ -7,4 +7,4 @@ title: "Materialism"
 
 ...materialism of a different sort
 
-![Image of truco rankings, Manu](/images/truco_manu.jpg)
+![Image of truco rankings, Manu](/assets/truco_manu.jpg)
