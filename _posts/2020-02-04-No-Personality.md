@@ -12,4 +12,4 @@ Imagine not having any personality. It is impossible, but even trying is very of
 
 That said the few people I've met that have wandered far down this path have not been dull nor bland in the least.
 
-I suspect while joy, tranquility, and compassion a not personality traits, they may make great substitutes.  
+I suspect while joy, tranquility, and compassion are not personality traits, they may make great substitutes.  
