@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-02-05
-title: "My Personal Management System – Part 3 - Process"
+title: "My Personal Management System – Part 4 - Process"
 ---
 
 The second step of the GTD System is **process**. You have [captured](https://sted9000.github.io/blog/2020/02/02/GTD-Capture.html) everything that came across your mind, now it is time to ask _what is it and what do I want to do about it?_
